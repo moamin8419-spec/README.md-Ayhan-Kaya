@@ -1,0 +1,14 @@
+# Campus Food Delivery System
+
+This project demonstrates the use of Factory Pattern and Singleton Pattern in Java.
+
+Patterns Used:
+- Factory Pattern
+- Singleton Pattern
+
+How to Run:
+1. Open the project in IntelliJ IDEA
+2. Run Main.java
+
+Expected Output:
+The system creates food orders and sends notifications using different notification types.
